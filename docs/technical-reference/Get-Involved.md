@@ -13,7 +13,7 @@ OpenRefine's communication channels are the heart of our collaboration. Join the
 Once you've joined the forum, take a moment to introduce yourself in the [introduction thread](https://forum.openrefine.org/t/introductions-thread/69). Let us know about your background, interests, and what aspects of design you're passionate about. This is a great way for us to get to know you better and for you to connect with fellow community members.
 
 Check out the available avenues for contributing to the design team. Whether it's enhancing the core design elements, creating visual assets, or collaborating on user experience improvements, carrying out user testing or research, there's a role for every design enthusiast.
-
+ 
 ## Tools
 ### Figma
 [Figma](https://www.figma.com/) is a popular web-based design tool, which is used to document the OpenRefine design system. You don’t have to use it to contribute to the OpenRefine project, but you may want to take advantage of the possibilities to reuse design components in your design work, too. To do that you will need to create a free account, if you don’t already have one. If you need guidance, explore [Figma's Help Center](https://help.figma.com/hc/en-us) for tutorials and more to master Figma's features.
